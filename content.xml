@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510231538IFRZVC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026051023153897Y8DH</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>MUJERES EN LA CIENCIA / WOMEN IN SCIENCE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Mujeres en la ciencia</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Juan José Castillo Galdeano</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto se centra en la realización de un producto final (una infografía) con la herramienta Canva sobre las contribuciones científicas y tecnológicas de mujeres de
+Andalucía y del Reino Unido, visibilizando sus aportaciones en distintas disciplinas científicas y tecnológicas. Está dirigido a alumnado de 1º de E.S.O dentro del área de inglés.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: cc0 1.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/publicdomain/zero/1.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778446947956</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778429210998-q0pfhoyv3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>COMENZAMOS NUESTRO PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMENZAMOS NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778429210998-q0pfhoyv3</odePageId>
+      <odeBlockId>block-1778429599621-iqujvedhp</odeBlockId>
+      <blockName>¡Comenzamos!</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778429210998-q0pfhoyv3</odePageId>
+          <odeBlockId>block-1778429599621-iqujvedhp</odeBlockId>
+          <odeIdeviceId>idevice-1778429599619-mn5xg9hdj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 433px;"><img src="{{context_path}}/content/resources/Let´s do it.png" title="Let´s go" alt="" width="433" height="433" />
+<figcaption class="figcaption"><span class="author">Pixabay</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p>Si pinchas <a href="https://drive.google.com/file/d/1eVcaP3mj2FQGOoV2ZzlLRnxsg1Rw8QZU/view?usp=drive_link" title="">aquí</a> podrás abrir el documento con toda la información detallada sobre el proyecto que ahora comenzamos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778429599619-mn5xg9hdj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 433px;\"><img src=\"{{context_path}}/content/resources/Let´s do it.png\" title=\"Let´s go\" alt=\"\" width=\"433\" height=\"433\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pixabay</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p>Si pinchas <a href=\"https://drive.google.com/file/d/1eVcaP3mj2FQGOoV2ZzlLRnxsg1Rw8QZU/view?usp=drive_link\" title=\"\">aquí</a> podrás abrir el documento con toda la información detallada sobre el proyecto que ahora comenzamos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431683549-ob0coisj3</odePageId>
+  <odeParentPageId>page-1778429210998-q0pfhoyv3</odeParentPageId>
+  <pageName>LICENCIAS Y SEGURIDAD</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LICENCIAS Y SEGURIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>LICENCIAS Y SEGURIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LICENCIAS Y SEGURIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431683549-ob0coisj3</odePageId>
+      <odeBlockId>block-1778431699741-4h2uv8hse</odeBlockId>
+      <blockName>Licencias y seguridad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431683549-ob0coisj3</odePageId>
+          <odeBlockId>block-1778431699741-4h2uv8hse</odeBlockId>
+          <odeIdeviceId>idevice-1778431699739-7f6wprgtm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2><span style="font-family: georgia, palatino, serif; font-size: 14pt;">Lo primero recordar las indicacio</span><span style="font-family: georgia, palatino, serif; font-size: 14pt;">nes fundamentales sobr protección de datos personales y garantías de derechos digitales. ¡Ahí va una ayuda!           <img src="{{context_path}}/content/resources/Haz clic.png" width="181" height="121" alt="" style="font-size: 14pt;" /></span></h2>
+<h2><span style="font-family: georgia, palatino, serif; font-size: 14pt;"><span class="author" style="font-size: 10pt;">                                                           ChatGPT</span><span style="font-size: 10pt;">. </span><span class="license" style="font-size: 10pt;"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span><br />             </span><span style="font-family: georgia, palatino, serif; font-size: 14pt;">                                                            </span><span style="font-family: georgia, palatino, serif; font-size: 14pt;">                                                                                     </span><span style="font-family: georgia, palatino, serif; font-size: 14pt;">  </span><a href="https://drive.google.com/file/d/1IDw6ZSFmDLYdG92iPB4Zl52sd32uD9NS/view?usp=drive_link" title=""></a><a href="https://drive.google.com/file/d/1IDw6ZSFmDLYdG92iPB4Zl52sd32uD9NS/view?usp=drive_link" title="" style="font-size: calc(1.325rem + 0.9vw);"></a></h2>
+<figure class="exe-figure position-center" style="width: 314px; display: inline !important;"><span style="font-size: 12pt;">                                                                                               <a href="https://drive.google.com/file/d/1IDw6ZSFmDLYdG92iPB4Zl52sd32uD9NS/view?usp=drive_link" title=""><img src="{{context_path}}/content/resources/Creative-commons.png" title="Protección Datos" width="314" height="314" alt="" /></a></span></figure>
+<figure class="exe-figure position-center" style="width: 178px;">
+<figcaption class="figcaption"><span style="font-size: 12pt;"><a href="Pixabay" class="author" target="_blank" rel="noopener">Pixabay</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<p> <img src="https://drive.google.com/file/d/1jVOTTw3ytBqoW0xkJGUsWGrG_y6pe5ej/view?usp=drive_link" alt="" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778431699739-7f6wprgtm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2><span style=\"font-family: georgia, palatino, serif; font-size: 14pt;\">Lo primero recordar las indicacio</span><span style=\"font-family: georgia, palatino, serif; font-size: 14pt;\">nes fundamentales sobr protección de datos personales y garantías de derechos digitales. ¡Ahí va una ayuda!           <img src=\"{{context_path}}/content/resources/Haz clic.png\" width=\"181\" height=\"121\" alt=\"\" style=\"font-size: 14pt;\" /></span></h2>\n<h2><span style=\"font-family: georgia, palatino, serif; font-size: 14pt;\"><span class=\"author\" style=\"font-size: 10pt;\">                                                           ChatGPT</span><span style=\"font-size: 10pt;\">. </span><span class=\"license\" style=\"font-size: 10pt;\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span><br />             </span><span style=\"font-family: georgia, palatino, serif; font-size: 14pt;\">                                                            </span><span style=\"font-family: georgia, palatino, serif; font-size: 14pt;\">                                                                                     </span><span style=\"font-family: georgia, palatino, serif; font-size: 14pt;\">  </span><a href=\"https://drive.google.com/file/d/1IDw6ZSFmDLYdG92iPB4Zl52sd32uD9NS/view?usp=drive_link\" title=\"\"></a><a href=\"https://drive.google.com/file/d/1IDw6ZSFmDLYdG92iPB4Zl52sd32uD9NS/view?usp=drive_link\" title=\"\" style=\"font-size: calc(1.325rem + 0.9vw);\"></a></h2>\n<figure class=\"exe-figure position-center\" style=\"width: 314px; display: inline !important;\"><span style=\"font-size: 12pt;\">                                                                                               <a href=\"https://drive.google.com/file/d/1IDw6ZSFmDLYdG92iPB4Zl52sd32uD9NS/view?usp=drive_link\" title=\"\"><img src=\"{{context_path}}/content/resources/Creative-commons.png\" title=\"Protección Datos\" width=\"314\" height=\"314\" alt=\"\" /></a></span></figure>\n<figure class=\"exe-figure position-center\" style=\"width: 178px;\">\n<figcaption class=\"figcaption\"><span style=\"font-size: 12pt;\"><a href=\"Pixabay\" class=\"author\" target=\"_blank\" rel=\"noopener\">Pixabay</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p> <img src=\"https://drive.google.com/file/d/1jVOTTw3ytBqoW0xkJGUsWGrG_y6pe5ej/view?usp=drive_link\" alt=\"\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778435552365-cm5q3c2e2</odePageId>
+  <odeParentPageId>page-1778429210998-q0pfhoyv3</odeParentPageId>
+  <pageName>ORGANIZACIÓN TEMPORAL</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ORGANIZACIÓN TEMPORAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778435552365-cm5q3c2e2</odePageId>
+      <odeBlockId>block-1778435562008-nhi1nut18</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778435552365-cm5q3c2e2</odePageId>
+          <odeBlockId>block-1778435562008-nhi1nut18</odeBlockId>
+          <odeIdeviceId>idevice-1778435562006-l7l5zisim</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Te dejo una línea temporal que recoge los aspectos más importantes y que te servirá para identificar de forma rápida y visual  en qué sesión te encuentras y cuál es el contenido a trabajar. Ponte encima de la imagen, haz clic y se abrirá la línea temporal.</p>
+<figure class="exe-figure position-center" style="width: 1234px;">
+<div class="figcaption header"><strong>Women in Science</strong></div>
+<a href="https://drive.google.com/file/d/1YBT9sJ6ptho_j05Vrk2GhcdLHf5INdlk/view?usp=sharing" title=""><img src="{{context_path}}/content/resources/Women in science.png" title="Women in science" alt="" width="1234" height="823" /></a>
+<figcaption class="figcaption"><span class="author">ChatGPT</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778435562006-l7l5zisim","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Te dejo una línea temporal que recoge los aspectos más importantes y que te servirá para identificar de forma rápida y visual  en qué sesión te encuentras y cuál es el contenido a trabajar. Ponte encima de la imagen, haz clic y se abrirá la línea temporal.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1234px;\">\n<div class=\"figcaption header\"><strong>Women in Science</strong></div>\n<a href=\"https://drive.google.com/file/d/1YBT9sJ6ptho_j05Vrk2GhcdLHf5INdlk/view?usp=sharing\" title=\"\"><img src=\"{{context_path}}/content/resources/Women in science.png\" title=\"Women in science\" alt=\"\" width=\"1234\" height=\"823\" /></a>\n<figcaption class=\"figcaption\"><span class=\"author\">ChatGPT</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778438476279-nmuu0f998</odePageId>
+  <odeParentPageId>page-1778429210998-q0pfhoyv3</odeParentPageId>
+  <pageName>CURACIÓN DE CONTENIDO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778438476279-nmuu0f998</odePageId>
+      <odeBlockId>block-1778438480201-xhsr9eer5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778438476279-nmuu0f998</odePageId>
+          <odeBlockId>block-1778438480201-xhsr9eer5</odeBlockId>
+          <odeIdeviceId>idevice-1778438480200-t2ovzfnrp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta curación de contenidos está adaptada a las características y necesidades de mi alumnado, en concreto alumnado de 1º de E.S.O. con un nivel de competencia digital medio y que según sus características necesita, sobre todo, que haya organización en la información y en las herramientas que vayamos a utilizar en la clase. He seleccionado Padlet y Symbaloo porque son herramientas que utilizo a menudo por su efectividad. </p>
+<figure class="exe-figure position-center" style="width: 266px;"><img src="{{context_path}}/content/resources/go (1).png" title="Go" width="266" height="266" alt="" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/go-icono-bot%C3%B3n-firmar-5433252/" class="author" target="_blank" rel="noopener">Pixabay</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Padlet: en este padlet he añadido enlaces y contenido útiles para el alumnado.</p>
+<p><a href="https://padlet.com/jjcastillogaldeano/mi-padlet-elegante-e5i572yke1frjv9z">https://padlet.com/jjcastillogaldeano/mi-padlet-elegante-e5i572yke1frjv9z</a></p>
+<p>Symbaloo: en esta aplicación he facilitado los enlaces a herramientas, app, tutoriales, que utlizo en mi día a día en la gestión del aula por si te puedes servir de ayuda.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAQNZdUkAA41-5EVp4A==">https://www.symbaloo.com/shared/AAAAAQNZdUkAA41-5EVp4A==</a></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778438480200-t2ovzfnrp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta curación de contenidos está adaptada a las características y necesidades de mi alumnado, en concreto alumnado de 1º de E.S.O. con un nivel de competencia digital medio y que según sus características necesita, sobre todo, que haya organización en la información y en las herramientas que vayamos a utilizar en la clase. He seleccionado Padlet y Symbaloo porque son herramientas que utilizo a menudo por su efectividad. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 266px;\"><img src=\"{{context_path}}/content/resources/go (1).png\" title=\"Go\" width=\"266\" height=\"266\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/illustrations/go-icono-bot%C3%B3n-firmar-5433252/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Pixabay</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Padlet: en este padlet he añadido enlaces y contenido útiles para el alumnado.</p>\n<p><a href=\"https://padlet.com/jjcastillogaldeano/mi-padlet-elegante-e5i572yke1frjv9z\">https://padlet.com/jjcastillogaldeano/mi-padlet-elegante-e5i572yke1frjv9z</a></p>\n<p>Symbaloo: en esta aplicación he facilitado los enlaces a herramientas, app, tutoriales, que utlizo en mi día a día en la gestión del aula por si te puedes servir de ayuda.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAQNZdUkAA41-5EVp4A==\">https://www.symbaloo.com/shared/AAAAAQNZdUkAA41-5EVp4A==</a></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778439973946-5dr6366ng</odePageId>
+  <odeParentPageId>page-1778429210998-q0pfhoyv3</odeParentPageId>
+  <pageName>HERRAMIENTA ELEGIDA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTA ELEGIDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>HERRAMIENTA ELEGIDA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778439973946-5dr6366ng</odePageId>
+      <odeBlockId>block-1778439977849-1753lo7bw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778439973946-5dr6366ng</odePageId>
+          <odeBlockId>block-1778439977849-1753lo7bw</odeBlockId>
+          <odeIdeviceId>idevice-1778439977847-0zgeu000g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí te dejo la herramienta digital que hemos utilizado para hacer el producto final, o sea la infografía, ha sido muy divertido trabajar con ella. Pincha encima y sabrás el por qué de mi elección.</p>
+<p>                                          <a href="https://drive.google.com/file/d/1BIPKnHBi8aeaTdQmmkILep_ShISbDda0/view?usp=sharing" title="CANVA"></a></p>
+<figure class="exe-figure position-center" style="width: 612px;"><a href="https://drive.google.com/file/d/1BIPKnHBi8aeaTdQmmkILep_ShISbDda0/view?usp=drive_link" title=""><img src="{{context_path}}/content/resources/Herramientas_digitales.png" title="Herramientas digitales" width="612" height="408" alt="" /></a>
+<figcaption class="figcaption"><span class="author">ChatGPT</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778439977847-0zgeu000g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí te dejo la herramienta digital que hemos utilizado para hacer el producto final, o sea la infografía, ha sido muy divertido trabajar con ella. Pincha encima y sabrás el por qué de mi elección.</p>\n<p>                                          <a href=\"https://drive.google.com/file/d/1BIPKnHBi8aeaTdQmmkILep_ShISbDda0/view?usp=sharing\" title=\"CANVA\"></a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 612px;\"><a href=\"https://drive.google.com/file/d/1BIPKnHBi8aeaTdQmmkILep_ShISbDda0/view?usp=drive_link\" title=\"\"><img src=\"{{context_path}}/content/resources/Herramientas_digitales.png\" title=\"Herramientas digitales\" width=\"612\" height=\"408\" alt=\"\" /></a>\n<figcaption class=\"figcaption\"><span class=\"author\">ChatGPT</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778441303143-6n3d625rx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778441303143-6n3d625rx</odePageId>
+      <odeBlockId>block-1778441324573-4wty3mslf</odeBlockId>
+      <blockName>Asociamos tareas a criterios de evaluación</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778441303143-6n3d625rx</odePageId>
+          <odeBlockId>block-1778441324573-4wty3mslf</odeBlockId>
+          <odeIdeviceId>idevice-1778441324571-h4yl7lyf4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El documento que te dejo a continuación recoge la propuesta didáctica de "mujeres en la ciencia". Esta propuesta como verás combina diversas tareas - debates, actividades de comprensión oral, investigación digital y trabajo cooperativo - que favorecen el desarrollo de la competencia lingüística y digital, culminando en la elaboración de un producto final: una infografía colaborativa. </p>
+<p style="text-align: justify;">Te  dejo el documento completo aquí debajo, solo pincha en la imagen.</p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;">                                         <a href="https://drive.google.com/file/d/1-US3HtAfl2eIaxf0KFgL6Atm8doq-HQt/view?usp=drive_link" title=""></a></p>
+<figure class="exe-figure position-center" style="width: 612px;"><a href="https://drive.google.com/file/d/1-US3HtAfl2eIaxf0KFgL6Atm8doq-HQt/view?usp=drive_link" title=""><img src="{{context_path}}/content/resources/Haz clic.png" width="612" height="408" alt="" /></a>
+<figcaption class="figcaption"><span class="author">ChatGPT</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778441324571-h4yl7lyf4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El documento que te dejo a continuación recoge la propuesta didáctica de \"mujeres en la ciencia\". Esta propuesta como verás combina diversas tareas - debates, actividades de comprensión oral, investigación digital y trabajo cooperativo - que favorecen el desarrollo de la competencia lingüística y digital, culminando en la elaboración de un producto final: una infografía colaborativa. </p>\n<p style=\"text-align: justify;\">Te  dejo el documento completo aquí debajo, solo pincha en la imagen.</p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\">                                         <a href=\"https://drive.google.com/file/d/1-US3HtAfl2eIaxf0KFgL6Atm8doq-HQt/view?usp=drive_link\" title=\"\"></a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 612px;\"><a href=\"https://drive.google.com/file/d/1-US3HtAfl2eIaxf0KFgL6Atm8doq-HQt/view?usp=drive_link\" title=\"\"><img src=\"{{context_path}}/content/resources/Haz clic.png\" width=\"612\" height=\"408\" alt=\"\" /></a>\n<figcaption class=\"figcaption\"><span class=\"author\">ChatGPT</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778442211324-6jdok0vhg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778442211324-6jdok0vhg</odePageId>
+      <odeBlockId>block-1778442222281-4qx7xdp1l</odeBlockId>
+      <blockName>Elegimos y creamos los instrumentos de evaluación</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778442211324-6jdok0vhg</odePageId>
+          <odeBlockId>block-1778442222281-4qx7xdp1l</odeBlockId>
+          <odeIdeviceId>idevice-1778442222279-oqm3nr32e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar este proyecto he utilizado la diana de evaluación y la rúbrica.</p>
+<p>La diana de evaluación porque es un instrumento visual que facilita la autoevaluación y la coevaluación del alumnado mediante una escala del 1 al 4. Se aplica al finalizar el proyecto y durante la revisión del trabajo.</p>
+<figure class="exe-figure position-center" style="width: 336px;"><a href="https://drive.google.com/file/d/14S4-C4C8gB6ylsWLVv68fVdL2W-NimsC/view?usp=sharing" title=""><img src="{{context_path}}/content/resources/Diana de Evaluación_1.png" width="336" height="261" alt="" /></a>
+<figcaption class="figcaption"><span class="author">Canva/JJCastillo</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>La rúbrica, por su parte, permite evaluar de forma objetiva la infografía final mediante criterios y niveles de logro claros. Se utiliza durante todo el proceso y al final.</p>
+<figure class="exe-figure position-center" style="width: 280px;"><a href="https://drive.google.com/file/d/1oUFiGOetkbza2gLgnb6KttNtsFCUzKtD/view?usp=drive_link" title=""><img src="{{context_path}}/content/resources/Rúbrica.png" width="280" height="120" alt="" /></a>
+<figcaption class="figcaption"><span class="author">Canva/JJCastillo</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778442222279-oqm3nr32e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar este proyecto he utilizado la diana de evaluación y la rúbrica.</p>\n<p>La diana de evaluación porque es un instrumento visual que facilita la autoevaluación y la coevaluación del alumnado mediante una escala del 1 al 4. Se aplica al finalizar el proyecto y durante la revisión del trabajo.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 336px;\"><a href=\"https://drive.google.com/file/d/14S4-C4C8gB6ylsWLVv68fVdL2W-NimsC/view?usp=sharing\" title=\"\"><img src=\"{{context_path}}/content/resources/Diana de Evaluación_1.png\" width=\"336\" height=\"261\" alt=\"\" /></a>\n<figcaption class=\"figcaption\"><span class=\"author\">Canva/JJCastillo</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>La rúbrica, por su parte, permite evaluar de forma objetiva la infografía final mediante criterios y niveles de logro claros. Se utiliza durante todo el proceso y al final.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 280px;\"><a href=\"https://drive.google.com/file/d/1oUFiGOetkbza2gLgnb6KttNtsFCUzKtD/view?usp=drive_link\" title=\"\"><img src=\"{{context_path}}/content/resources/Rúbrica.png\" width=\"280\" height=\"120\" alt=\"\" /></a>\n<figcaption class=\"figcaption\"><span class=\"author\">Canva/JJCastillo</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778444848390-6mx77yi0v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778444848390-6mx77yi0v</odePageId>
+      <odeBlockId>block-1778444853580-lx111u9lw</odeBlockId>
+      <blockName>Información General sobre este recurso</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778444848390-6mx77yi0v</odePageId>
+          <odeBlockId>block-1778444853580-lx111u9lw</odeBlockId>
+          <odeIdeviceId>idevice-1778444853579-1cam72673</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><table border="1" style="width: 99.9647%;">
+<tbody>
+<tr>
+<td style="width: 30.3628%;">Título</td>
+<td style="width: 69.707%;">Mujeres en la ciencia / Women in science</td>
+</tr>
+<tr>
+<td style="width: 30.3628%;">Descripción</td>
+<td style="width: 69.707%;">Este proyecto se centra en la realización de un producto final (una infografía) con la herramienta Canva sobre las contribuciones científicas y tecnológicas de mujeres de<br />Andalucía y del Reino Unido, visibilizando sus aportaciones en distintas disciplinas<br />científicas y tecnológicas. Está dirigido a alumnado de 1º de E.S.O dentro del área de inglés.</td>
+</tr>
+<tr>
+<td style="width: 30.3628%;">Autoría</td>
+<td style="width: 69.707%;">Juan José Castillo Galdeano</td>
+</tr>
+<tr>
+<td style="width: 30.3628%;">Licencia</td>
+<td style="width: 69.707%;"><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" title="">Creative Commons 1.0 Universal</a></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p>Este contenido fue creado con eXeLearning, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p><br /></p>
+<p><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><br /></p>
+<p><br /></p>
+<p><br /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778444853579-1cam72673","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><table border=\"1\" style=\"width: 99.9647%;\">\n<tbody>\n<tr>\n<td style=\"width: 30.3628%;\">Título</td>\n<td style=\"width: 69.707%;\">Mujeres en la ciencia / Women in science</td>\n</tr>\n<tr>\n<td style=\"width: 30.3628%;\">Descripción</td>\n<td style=\"width: 69.707%;\">Este proyecto se centra en la realización de un producto final (una infografía) con la herramienta Canva sobre las contribuciones científicas y tecnológicas de mujeres de<br />Andalucía y del Reino Unido, visibilizando sus aportaciones en distintas disciplinas<br />científicas y tecnológicas. Está dirigido a alumnado de 1º de E.S.O dentro del área de inglés.</td>\n</tr>\n<tr>\n<td style=\"width: 30.3628%;\">Autoría</td>\n<td style=\"width: 69.707%;\">Juan José Castillo Galdeano</td>\n</tr>\n<tr>\n<td style=\"width: 30.3628%;\">Licencia</td>\n<td style=\"width: 69.707%;\"><a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" title=\"\">Creative Commons 1.0 Universal</a></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p>Este contenido fue creado con eXeLearning, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>\n<p><br /></p>\n<p><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><br /></p>\n<p><br /></p>\n<p><br /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p><br /></p>\n<p><br /></p>\n<p><br /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778444848390-6mx77yi0v</odePageId>
+      <odeBlockId>block-1778447325817-mqdksgd9y</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778444848390-6mx77yi0v</odePageId>
+          <odeBlockId>block-1778447325817-mqdksgd9y</odeBlockId>
+          <odeIdeviceId>idevice-1778447325815-nfcf1b6u7</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">MUJERES EN LA CIENCIA / WOMEN IN SCIENCE</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este proyecto se centra en la realización de un producto final (una infografía) con la herramienta Canva sobre las contribuciones científicas y tecnológicas de mujeres de
+Andalucía y del Reino Unido, visibilizando sus aportaciones en distintas disciplinas científicas y tecnológicas. Está dirigido a alumnado de 1º de E.S.O dentro del área de inglés.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Juan José Castillo Galdeano</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license"><a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="license" class="cc cc-0"><span></span>Creative Commons CC0 1.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
